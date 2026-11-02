@@ -1,0 +1,15 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+GLMfinal
+</name>
+</assembly>
+<members>
+<member name="T:GLM_final.GameLibraryDBmdfDataSet">
+	<summary>
+Represents a strongly typed in-memory cache of data.
+</summary>
+</member>
+</members>
+</doc>

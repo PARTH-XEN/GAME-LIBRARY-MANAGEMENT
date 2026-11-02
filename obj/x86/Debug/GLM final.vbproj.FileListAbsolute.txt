@@ -1,0 +1,20 @@
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM final.vbprojResolveAssemblyReference.cache
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.Resources.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM final.vbproj.GenerateResource.Cache
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.LoginForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.DashboardForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.GameManagementForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.BorrowIssueForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.BorrowIssueHistoryForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.SearchGamesForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.RentalForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM_final.ReportsForm.resources
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\bin\Debug\GLM final.exe
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\bin\Debug\GLM final.pdb
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\bin\Debug\GLM final.xml
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM final.exe
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM final.xml
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\obj\x86\Debug\GLM final.pdb
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\bin\Debug\GameLibraryDBmdf.mdf
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\bin\Debug\GameLibraryDBmdf_log.ldf
+C:\Users\dell\OneDrive\Documents\Visual Studio 2010\Projects\GLM final\bin\Debug\GLM final.exe.config
